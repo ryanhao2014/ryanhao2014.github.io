@@ -2,35 +2,42 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://ryanhao.xyz/2017/03/09/WHY-EUMERYAN/</loc>
+    <loc>http://yoursite.com/2017/03/26/%E4%BD%A0%E8%BF%99%E6%B1%9F%E6%B9%96%E7%9C%9F%E7%83%82/</loc>
+    
+    <lastmod>2017-03-26T10:35:51.645Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/2017/03/09/WHY-EUMERYAN/</loc>
     
     <lastmod>2017-03-09T13:29:18.017Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://ryanhao.xyz/2017/03/09/Hexo-github-themes%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2%E9%81%87%E5%88%B0%E7%9A%84%E9%97%AE%E9%A2%98/</loc>
+    <loc>http://yoursite.com/2017/03/09/Hexo-github-themes%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2%E9%81%87%E5%88%B0%E7%9A%84%E9%97%AE%E9%A2%98/</loc>
     
     <lastmod>2017-03-09T02:23:23.417Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://ryanhao.xyz/404.html</loc>
+    <loc>http://yoursite.com/404.html</loc>
     
     <lastmod>2017-03-09T02:08:56.671Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://ryanhao.xyz/about.html</loc>
+    <loc>http://yoursite.com/about.html</loc>
     
     <lastmod>2017-03-09T02:02:06.532Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://ryanhao.xyz/2017/03/08/let-it-go/</loc>
+    <loc>http://yoursite.com/2017/03/08/let-it-go/</loc>
     
     <lastmod>2017-03-08T16:26:52.600Z</lastmod>
     
